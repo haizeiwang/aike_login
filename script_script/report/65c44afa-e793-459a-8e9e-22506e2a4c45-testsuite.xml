@@ -1,0 +1,54 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1553063513289" stop="1553063582152">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1553063513289" status="passed" stop="1553063536703">
+      <name>TestLogin.test_login[1111111-1111111]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15212-MainThread"/>
+        <label name="host" value="DESKTOP-I8LOC57"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553063536705" status="passed" stop="1553063552652">
+      <name>TestLogin.test_login[22222-22222]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15212-MainThread"/>
+        <label name="host" value="DESKTOP-I8LOC57"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553063552653" status="passed" stop="1553063567468">
+      <name>TestLogin.test_login[333333-3333333]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15212-MainThread"/>
+        <label name="host" value="DESKTOP-I8LOC57"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553063567469" status="passed" stop="1553063582152">
+      <name>TestLogin.test_login[444444-444444]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15212-MainThread"/>
+        <label name="host" value="DESKTOP-I8LOC57"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
