@@ -1,0 +1,6 @@
+[
+  "script_script/test_login.py::TestLogin::()::test_login[1111111-1111111]",
+  "script_script/test_login.py::TestLogin::()::test_login[22222-22222]",
+  "script_script/test_login.py::TestLogin::()::test_login[333333-3333333]",
+  "script_script/test_login.py::TestLogin::()::test_login[444444-444444]"
+]

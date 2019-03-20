@@ -1,16 +1,16 @@
 import os
 import sys
+sys.path.append(os.getcwd())
 
 import pytest
 import yaml
 
-sys.path.append(os.getcwd())
 
 from base_base.get_driver import GetDriver
 from page_page.page_login import PageLogin
 
 def get_data():
-    with open("../data/data_login.yaml", "r", encoding="utf-8") as i:
+    with open("./data/data_login.yaml", "r", encoding="utf-8") as i:
         data = yaml.load(i)
         list = []
         for data in data.values():
